@@ -13,6 +13,7 @@
 ## 🛠️ My Skills
 
 <strong>FrontEnd</strong><br>
+
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="20"/> HTML5<br>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS3<br>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="20"/> JavaScript<br>
@@ -20,6 +21,7 @@
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="20"/> Figma<br><br>
 
 <strong>BackEnd / Testing</strong><br>
+
 <img src="https://img.icons8.com/color/24/dart.png" width="24"/> Dart<br>
 <img src="https://img.icons8.com/color/24/firebase.png" width="24"/> Firebase<br>
 <img src="https://img.icons8.com/color/24/microsoft-sql-server.png" width="24"/> SQL Server<br>
@@ -28,7 +30,8 @@
 🤖 Katalon<br><br>
 
 <strong>Tools & Soft Skills</strong><br>
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24" style="filter: invert(0);"/> GitHub<br>
+
+<img src="https://img.icons8.com/ios-filled/24/github.png" width="24"/> GitHub<br>
 <img src="https://img.icons8.com/ios-filled/24/task.png" width="24"/> Backlog<br>
 <img src="https://img.icons8.com/color/24/google-sheets.png" width="24"/> Google Sheets<br>
 ♻️ Agile/Scrum<br>
@@ -36,6 +39,7 @@
 📣 Media & Events<br>
 💬 Communication<br>
 👥 Teamwork
+
 
 
 ---
