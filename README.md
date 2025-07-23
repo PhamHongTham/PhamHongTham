@@ -12,7 +12,7 @@
 
 ## 🛠️ My Skills
 
-## FrontEnd
+FrontEnd
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="20"/> HTML5  
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS3  
@@ -20,7 +20,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="20"/> Flutter  
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="20"/> Figma
 
-### BackEnd / Testing 
+ BackEnd / Testing 
 
 <img src="https://img.icons8.com/color/24/dart.png" width="24"/> Dart  
 <img src="https://img.icons8.com/color/24/firebase.png" width="24"/> Firebase  
@@ -30,7 +30,7 @@
 🤖 Katalon
 
 
-### Tools & Soft Skills
+Tools & Soft Skills
 
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24"/> GitHub  
 <img src="https://img.icons8.com/ios-filled/24/task.png" width="24"/> Backlog  
