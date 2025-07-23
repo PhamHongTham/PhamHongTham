@@ -12,33 +12,29 @@
 
 ## 🛠️ My Skills
 
-FrontEnd
+<strong>FrontEnd</strong><br>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="20"/> HTML5<br>
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS3<br>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="20"/> JavaScript<br>
+<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="20"/> Flutter<br>
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="20"/> Figma<br><br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="20"/> HTML5  
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/> CSS3  
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="20"/> JavaScript  
-<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="20"/> Flutter  
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="20"/> Figma
+<strong>BackEnd / Testing</strong><br>
+<img src="https://img.icons8.com/color/24/dart.png" width="24"/> Dart<br>
+<img src="https://img.icons8.com/color/24/firebase.png" width="24"/> Firebase<br>
+<img src="https://img.icons8.com/color/24/microsoft-sql-server.png" width="24"/> SQL Server<br>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="24"/> Postman<br>
+🪲 Manual Testing<br>
+🤖 Katalon<br><br>
 
- BackEnd / Testing 
-
-<img src="https://img.icons8.com/color/24/dart.png" width="24"/> Dart  
-<img src="https://img.icons8.com/color/24/firebase.png" width="24"/> Firebase  
-<img src="https://img.icons8.com/color/24/microsoft-sql-server.png" width="24"/> SQL Server  
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="24"/> Postman  
-🪲 Manual Testing  
-🤖 Katalon
-
-
-Tools & Soft Skills
-
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24"/> GitHub  
-<img src="https://img.icons8.com/ios-filled/24/task.png" width="24"/> Backlog  
-<img src="https://img.icons8.com/color/24/google-sheets.png" width="24"/> Google Sheets  
-♻️ Agile/Scrum  
-<img src="https://img.icons8.com/ios-filled/24/microsoft-office-2019.png" width="24"/> MS Office  
-📣 Media & Events  
-💬 Communication  
+<strong>Tools & Soft Skills</strong><br>
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24" style="filter: invert(0);"/> GitHub<br>
+<img src="https://img.icons8.com/ios-filled/24/task.png" width="24"/> Backlog<br>
+<img src="https://img.icons8.com/color/24/google-sheets.png" width="24"/> Google Sheets<br>
+♻️ Agile/Scrum<br>
+<img src="https://img.icons8.com/ios-filled/24/microsoft-office-2019.png" width="24"/> MS Office<br>
+📣 Media & Events<br>
+💬 Communication<br>
 👥 Teamwork
 
 
