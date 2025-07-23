@@ -1,7 +1,8 @@
 # 👩‍💻 Phạm Thị Hồng Thắm
 
  
-<h2 align="center" style="text-decoration: none; border: none;">Software Tester</h2>
+<h2 align="center" style="text-decoration: none; border-bottom: none; outline: none; box-shadow: none;">Software Testing</h2>
+
 
 
 
