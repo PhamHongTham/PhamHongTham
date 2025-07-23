@@ -1,8 +1,15 @@
 # 👩‍💻 Phạm Thị Hồng Thắm
 
- 
-<h2 align="center" style="text-decoration: none; border-bottom: none; outline: none; box-shadow: none;">Software Testing</h2>
-
+<h2 style="
+  all: unset;
+  display: block;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 20px 0;
+">
+  Software Testing
+</h2>
 
 
 
