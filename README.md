@@ -1,15 +1,7 @@
 # 👩‍💻 Phạm Thị Hồng Thắm
 
-<h2 style="
-  all: unset;
-  display: block;
-  text-align: center;
-  font-size: 1.5em;
-  font-weight: bold;
-  margin: 20px 0;
-">
-  Software Testing
-</h2>
+ 
+<h2 align="center" style="text-decoration: none; border: none;">Software Testing</h2>
 
 
 
@@ -40,7 +32,7 @@
 
 ### Tools & Soft Skills
 
-<img src="https://img.icons8.com/ios-filled/24/github.png" width="24"/> GitHub  
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24"/> GitHub  
 <img src="https://img.icons8.com/ios-filled/24/task.png" width="24"/> Backlog  
 <img src="https://img.icons8.com/color/24/google-sheets.png" width="24"/> Google Sheets  
 ♻️ Agile/Scrum  
