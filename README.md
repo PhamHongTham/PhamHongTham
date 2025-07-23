@@ -11,8 +11,6 @@
 <hr style="width: 50%;">
 
 
----
-
 ## 🛠️ My Skills
 
 ## FrontEnd
