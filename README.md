@@ -8,8 +8,6 @@
 📞 +84 382 718 100  
 ✉️ ptht101002@gmail.com
 
-<hr style="width: 50%;">
-
 
 ## 🛠️ My Skills
 
