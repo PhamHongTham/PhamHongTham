@@ -1,8 +1,8 @@
 # 👩‍💻 Phạm Thị Hồng Thắm
 
-<div align="center">
-  <h2><i>Software Tester</i></h2>
-</div>
+ 
+  <h2 align="center"><i>Software Tester</i></h2>
+
 
 📍 Hòa Minh, Liên Chiểu, Đà Nẵng  
 📞 +84 382 718 100  
