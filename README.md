@@ -1,7 +1,8 @@
 # 👩‍💻 Phạm Thị Hồng Thắm
 
  
-  <h2 align="center">Software Tester</h2>
+<h2 align="center" style="text-decoration: none; border: none;">Software Tester</h2>
+
 
 
 📍 Hòa Minh, Liên Chiểu, Đà Nẵng  
